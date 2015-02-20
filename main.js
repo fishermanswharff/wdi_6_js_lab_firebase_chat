@@ -1,4 +1,3 @@
-# Your code here
 $(document).ready(function(){
   var myDataRef = new Firebase('https://crackling-fire-3909.firebaseio.com/');
   $('#messageInput').keypress(function (e) {
